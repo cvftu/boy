@@ -1,0 +1,22 @@
+{
+    "name": "boy",
+    "description": "boy",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "6f80f6cd-b90e-4d86-acc9-a0dd2ce06c60"
+        },
+        "AID": {
+            "description": "AlterID",
+            "value": "64"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/cvftu/boy/",
+    "repository": "https://github.com/cvftu/boy",
+    "stack": "container"
+}
